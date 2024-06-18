@@ -1,2 +1,1 @@
-FROM ubuntu
-RUN echo
+FROM mcr.microsoft.com/mcr/hello-world
